@@ -47,7 +47,8 @@ Data Cleaning and Preprocessing(label Encoding) : Handling missing values, outli
 Exploratory Data Analysis (EDA): Utilizing statistical methods and data visualization techniques (histograms, box plots, scatter plots, bar charts, etc.) to address each problem statement.
 
  Reporting: Summarizing findings and providing actionable insights.
- [Goto Project NoteBook]
+ 
+ [Goto Project NoteBook](https://github.com/Satyajit546/Car-Sale-EDA-Project/blob/main/Car%20Sales%20EDA/Car_sales_EDA_.ipynb)
 
 
 
