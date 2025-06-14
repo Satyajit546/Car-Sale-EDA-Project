@@ -32,21 +32,18 @@ This project focuses on performing an in-depth exploratory data analysis (EDA) o
 7.Top Selling Models & Price
 
 ## Technologies Used
-Python: For data manipulation and analysis.
-
-Pandas: For data structuring and operations.
-
-NumPy: For numerical operations.
-
-Matplotlib / Seaborn: For data visualization.
-
-Data Collection: Data Import throgh pandas library
-
-Data Cleaning and Preprocessing(label Encoding) : Handling missing values, outliers, and data type conversions to ensure data quality.
-
-Exploratory Data Analysis (EDA): Utilizing statistical methods and data visualization techniques (histograms, box plots, scatter plots, bar charts, etc.) to address each problem statement.
-
- Reporting: Summarizing findings and providing actionable insights.
+# Data loading: 
+Load the "Car Sale.csv" file into a pandas DataFrame.
+# Data exploration: 
+Explore the data to understand its structure, including the number of rows and columns, data types of each column, and summary statistics. Identify potential missing values and outliers.
+# Data cleaning: 
+Handle missing values (if any) and outliers appropriately. This might involve imputation, removal, or transformation of data. Ensure data consistency.Visualize Through Heatmap.
+# Data analysis: 
+Perform exploratory data analysis, including calculating descriptive statistics, examining distributions of numerical variables, and exploring relationships between different variables. Look for correlations and potential trends.
+# Data visualization: 
+Create visualizations such as histograms, box plots, scatter plots, and Violin Plot For Distribution to better understand the data distributions, relationships between Categrical vs numeriacl features, and identify any patterns .
+# Finish task: 
+Summarize the findings from the exploratory data analysis, including key observations, insights, and potential areas for further investigation. Present the 
  
  [Goto Project NoteBook](https://github.com/Satyajit546/Car-Sale-EDA-Project/blob/main/Car%20Sales%20EDA/Car_sales_EDA_.ipynb)
 
